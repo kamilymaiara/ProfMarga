@@ -1,11 +1,7 @@
-- 👋 oi
--:fr:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  oi, eu sou a kamily
+- eu estou interessada em danca (ballet)
+- estou estudando tenicas do ballet classico
 
-<!---
-ProfMarga/ProfMarga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 📫 instagram: kamily.maiara
+
